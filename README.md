@@ -3,6 +3,7 @@
 A four-agent Claude Code team ("The Revenue Chain") that turns one business idea into positioning, an offer, a YouTube video plan, a lead magnet and a 5-email follow-up.
 
 ## What's here
+- `SETUP-GUIDE.md`: one-page, click-by-click Windows setup for non-developers. Start here.
 - `business-brief.md`: who FuturIQ serves, the voice and the rules. Every agent reads it.
 - `.claude/agents/`: the four specialist agents:
   1. `market-signal-researcher`: demand, buyer psychology, opportunity score
