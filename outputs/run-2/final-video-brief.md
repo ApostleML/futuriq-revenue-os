@@ -10,7 +10,7 @@ Sources: `outputs/run-2/01` to `04`, `business-brief.md`, `SETUP-GUIDE.md`.
 
 ## The One-Sentence Offer
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 Locked. Copied word for word from `02-offer-architecture.md`. It appears unchanged in the hook, one angle, the lead magnet promise and Email 1.
 
@@ -66,7 +66,7 @@ A subagent is a role file: a short text document that says "you are the speciali
 | "The research step can't overwrite my files." | **Read-only researcher.** Agent 1 has Write and Edit disabled. It reports back and the main session saves its brief. | The agent file with write access off. Said in one sentence. |
 | "If the offer is wrong, I fix one stage and rerun the rest." | **Written handoffs.** Each stage is a file you can open. A bad offer is an Agent 2 fix, then reruns of 3 and 4. | Open any stage's output file. No claim of a quality gain over one prompt. |
 
-What "one promise, four places" prevents: the offer, the video, the magnet and the emails contradicting each other. That is the pain scene from 0:20, resolved at the contract reveal.
+What "one promise, four places" prevents: the offer, the video, the magnet and the emails contradicting each other. That is the pain named in the hook and shown at 0:25, resolved at the contract reveal.
 
 ### Why it holds up
 Five things are on screen. None needs an income claim.
@@ -111,6 +111,9 @@ Rules:
 1. **Same Promise in the Offer, Video, Lead Magnet and Emails (Claude Code)**. Leads with the mechanism's benefit.
 2. **Your AI-Written Offer and Emails Don't Match. Fix It (Claude Code)**. Leads with the pain.
 3. **Idea in Your Notes App to Offer, Lead Magnet, Emails (Claude Code)**. Leads with the trigger.
+4. **One Idea In, Full Offer System Out (for Coaches)**. The main title without "Claude Code", for viewers who don't know or fear the tool name.
+
+**A/B test:** run the main title against backup 4 with YouTube's title test. The only difference is "Claude Code", so the result shows whether naming the tool helps or hurts clicks with this audience.
 
 None names the agent count. None says "build this first." None promises money.
 
@@ -123,13 +126,15 @@ Visual: left, a notes-app line reading the demo idea. Right, four plain cards: O
 
 ---
 
-## Hook (0:00, about 20 seconds)
+## Hook (0:00, about 24 seconds)
 
-The offer sentence alone. Nothing before it. Nothing after it. Do not trim or reword.
+Two short pain lines, then the offer sentence. 60 words: about 24 seconds at 150 words a minute, so keep the pace up and don't add anything. The offer sentence is word for word. Do not trim or reword it.
 
-> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+> AI wrote your offer, your video, your emails. They don't match.
+>
+> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
-On screen only (no extra spoken words): the sentence subtitled in full. Behind it, the demo idea in a notes app and four empty slots labelled Offer, Angles, Lead magnet, Emails. Timer starts at 00:00 and stays up.
+On screen: for the pain lines, three AI-written snippets side by side (offer, video, email) that promise different things. Use real ones, such as the three differently worded promises in `demo-idea/single-prompt-contrast.md`. Don't stage a contradiction; that run showed drift, not outright conflict. For the offer sentence, the sentence subtitled in full, and behind it the demo idea in a notes app and four empty slots labelled Offer, Angles, Lead magnet, Emails. Timer starts at 00:00 and stays up.
 
 ---
 
@@ -139,8 +144,8 @@ Target 12:30 to 13:30. Planned base: 12:35. Optional contrast adds 0:25. Hard ce
 
 | Time | Beat | Length |
 |---|---|---|
-| 0:00 | Hook | 0:20 |
-| 0:20 | Pain scene | 0:55 (+0:25 optional) |
+| 0:00 | Hook | 0:25 |
+| 0:25 | Pain scene | 0:50 (+0:25 optional) |
 | 1:15 | Role file, brief, chain | 1:00 |
 | 2:15 | Agent 1: market-signal-researcher | 1:00 |
 | 3:15 | Agent 2: offer-architect | 2:00 |
@@ -153,7 +158,7 @@ Target 12:30 to 13:30. Planned base: 12:35. Optional contrast adds 0:25. Hard ce
 
 ### Beats
 
-**0:20 Pain scene.** Shown, not explained. Notes app with the one-line idea. Four empty slots: no offer, no angle, no magnet, no follow-up. Say: "This is where the idea sits today." Say once: the money is not in the tool, it is in the system that connects these four.
+**0:25 Pain scene.** Shown, not explained. Notes app with the one-line idea. Four empty slots: no offer, no angle, no magnet, no follow-up. Say: "This is where the idea sits today." Say once: the money is not in the tool, it is in the system that connects these four.
 - *Optional, +0:25.* One prompt asked to do all four, shown once. Label it on screen: "one run, not a benchmark." The rehearsal run (`demo-idea/single-prompt-contrast.md`) showed **no outright contradiction**, so do not say "contradicts". What it did show: the promise is worded three different ways across the offer, the lead magnet and Email 1, and two guesses are stated as facts ("most first hires go wrong", "most owners I've talked to"). Frame the beat as "the promise drifts and the guesses go unlabelled". Keep it only if the on-camera run shows the same.
 
 **1:15 Role file, brief, chain.** Open `.claude/agents/`. Four files. Open one, hold two seconds: it is plain text. Name the coordinator: the main session, not a fifth agent. Show the one brief. Build the four-step diagram from the folder names: market, offer, content, follow-up. One line on the Revenue Chain. Stop.
@@ -220,7 +225,7 @@ Do not cut the pain scene, the contract reveal, the honest limits or the templat
 
 **Promise (the locked offer sentence, word for word):**
 
-> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 **Prerequisite line (same words on the download page, in the CTA and in Email 1):** Needs a paid Claude plan (Pro or Max) and the one-page Windows setup guide. No coding.
 
@@ -293,7 +298,7 @@ Core idea: deliver the folder, show the sentence it is built around, give one fi
 >
 > When you run it, you get a market read first, then your own locked offer sentence. This is the sentence the folder is built around. Swap in yours:
 >
-> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 >
 > Stage 2 locks that sentence. Stages 3 and 4 have to quote it unchanged. That is why you saw it in the hook, an angle, the lead magnet promise and this email.
 >
@@ -423,7 +428,7 @@ Status as of 2026-10-15. **Done** items were completed and checked by the coordi
 ### Done
 - [x] **Run the demo idea first.** Rehearsal run saved in `outputs/run-2/demo-idea/`. The output is specific, not generic. Its offer sentence is: "I help owners of 2-8 person marketing or creative agencies hire and onboard their first account manager without a costly bad hire or clients feeling handed off, by building a role scorecard and handoff plan before the hire." That sentence appears word for word in its hook, lead magnet promise and Email 1. Keep the idea.
 - [x] **Find a real inference to show.** `demo-idea/01-market-signal.md` line 22 labels "recruiting problem… more likely a handoff problem" as `[INFERENCE]`, and `02-offer-architecture.md` line 12 carries it forward still labelled. Not staged. The rehearsal had no `[PUBLIC]` lines (no live search), so the Agent 1 beat now highlights `[BRIEF]` and `[INFERENCE]`.
-- [x] **Run the single-prompt contrast once.** Saved as `demo-idea/single-prompt-contrast.md`. No outright contradiction, so the beat is reframed as "the promise drifts and the guesses go unlabelled" (see the 0:20 optional beat). Do not say "contradicts".
+- [x] **Run the single-prompt contrast once.** Saved as `demo-idea/single-prompt-contrast.md`. No outright contradiction, so the beat is reframed as "the promise drifts and the guesses go unlabelled" (see the 0:25 optional beat). Do not say "contradicts".
 - [x] **Template folder matches the screen.** `starter-folder/` holds exactly the seven files, with the four agents in `.claude/agents/` so Claude Code loads them. `SETUP-GUIDE.md` is inside it. Zip this folder as `revenue-chain-starter-folder.zip` for the download link.
 - [x] **Build the two-section brief.** `starter-folder/business-brief.md` has Section A (worked example, the demo idea) and a blank Section B (YOUR IDEA). The starter runbook reads Section B only and stops if it is empty. The starter setup guide's step 7 now says to fill in YOUR IDEA. **Tested:** a headless Claude Code run on a blank Section B stopped at Step 0, called no agents and wrote no files.
 - [x] **Clean the runbook and shipped files.** No private paths, user names or internal notes in the seven starter files.
@@ -433,7 +438,7 @@ Status as of 2026-10-15. **Done** items were completed and checked by the coordi
 
 ### Measured, needs you to confirm
 - **Run time.** In the rehearsal, the four agents took 2 min 36 s from brief to final file (about 128 s of agent working time). That is machine time only. It does not include setup, reading or editing, so it neither proves nor breaks "single working session". Time the on-camera run and use only that figure.
-- **CTA length.** 73 words: about 29 s at 150 words a minute, about 26.5 s at 165. That is over the 25 s slot at a calm pace. Read it aloud; if it runs long, cut "No coding." as planned. The hook is 49 words, about 19.6 s at 150 wpm.
+- **CTA length.** 73 words: about 29 s at 150 words a minute, about 26.5 s at 165. That is over the 25 s slot at a calm pace. Read it aloud; if it runs long, cut "No coding." as planned. The hook is 60 words (two pain lines plus the 49-word offer sentence), about 24 s at 150 wpm.
 - **Demo-idea title.** The rehearsal's example title, "Build This Before You Hire Your First Account Manager", echoes the competitor's "build this first" pattern. It is the example coach's title, not FuturIQ's, but avoid lingering on it on screen.
 
 ### Open (needs the creator)

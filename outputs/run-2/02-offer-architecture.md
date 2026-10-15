@@ -4,7 +4,7 @@ Inputs read: business-brief.md and outputs/run-2/01-market-signal.md only for th
 
 ### One-Sentence Offer
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 ### Narrowing Decision
 The brief's audience (coaches, consultants, creators, service providers, entrepreneurs) is too broad to write a premium offer for. Narrowed to: solo coaches and consultants who sell their own expertise (high-touch service, one-person or near one-person business) and want to start getting leads from YouTube. Creators and other entrepreneurs can still watch, but every example, the demo business idea and the template are written for this buyer. Reason: their offer, lead magnet and follow-up are the exact assets the pipeline produces, so the demo output is directly usable by them and visibly specific. [INFERENCE]
@@ -17,7 +17,7 @@ This video supports a ladder, not one product. The thing the video itself sells 
 
 The one-sentence offer, repeated exactly:
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 - Who it is for: solo coaches and consultants with one expertise they can already deliver, who have used ChatGPT or Claude in chat, feel overwhelmed by tools, and do not have a repeatable way to go from "idea" to "sellable offer plus content plus follow-up". Not for: people with no deliverable service, or people wanting a passive-income or push-button-income promise. [BRIEF + INFERENCE]
 - Painful problem: they have an idea or expertise but no clear first system. They hop between tools, get generic output that sounds like everyone else, and the offer, content and follow-up never connect into one pipeline. The usual fixes cost real money (a strategist and a copywriter) or weeks of their own time. [BRIEF + INFERENCE]

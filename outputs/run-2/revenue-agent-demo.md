@@ -11,7 +11,7 @@ Coordinator: the main Claude Code session. This combines the four specialist out
 
 ## The One-Sentence Offer (locked in phase 2)
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 ### Offer-Sentence Contract check
 
@@ -74,7 +74,7 @@ The chain held. Nothing broke between agents.
   - You're Not Behind Yet: Your First AI Business System
 - **Thumbnail:** ONE IDEA IN / 4 AGENTS, 1 SYSTEM / BUILD THIS FIRST / NOT ANOTHER TOOL / IDEA TO OFFER
 - **Hook (word for word, about 20 seconds, the offer sentence alone):**
-  > [0:00] I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+  > [0:00] I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 - **Retention map, about 14:30:**
 
 | Time | Segment |

@@ -4,7 +4,7 @@ Inputs read: business-brief.md, 01-market-signal.md, 02-offer-architecture.md. N
 
 ### Offer Sentence (locked, quoted unchanged everywhere below)
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 ### Best Title
 
@@ -28,7 +28,7 @@ Validate against real search terms and top competing videos before locking (offe
 
 ### Angles and Offer-Sentence Placement
 
-**Angle A (primary, "I built it so you can copy it").** Rationale quoting the offer sentence: this video is the proof of the following promise, "I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team." Backup title 3 and the Best Title both serve this angle: the viewer watches the team get built and run, then gets the same files.
+**Angle A (primary, "I built it so you can copy it").** Rationale quoting the offer sentence: this video is the proof of the following promise, "I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team." Backup title 3 and the Best Title both serve this angle: the viewer watches the team get built and run, then gets the same files.
 
 **Angle B ("Stop using AI like this").** Contrast: one big prompt drifts into generic copy; four specialists with written handoffs stay specific. This answers the "can't I do this in ChatGPT?" objection without claiming a measured quality gain (not tested side by side). Backup title 2.
 
@@ -50,7 +50,7 @@ Word for word. The hook is the offer sentence alone, spoken at a high-energy pac
 
 **On screen 0:00-0:20:** the sentence subtitled in full over a fast montage of the four agent file names and the empty output folder. Timer overlay starts at 00:00.
 
-> [0:00] I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+> [0:00] I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 Notes: "single working session" is the offer sentence's phrase. Do not state a minute figure anywhere until the run has been timed on camera. The "money is in the system, not the tool" spine is said in the problem segment and the close, not in the hook.
 

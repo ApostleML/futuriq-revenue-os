@@ -14,7 +14,7 @@ System facts this document matches: four specialist agents (market-signal-resear
 
 **Promise (the locked offer sentence, unchanged):**
 
-I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 
 **Contents (file for file, nothing that is not shown on screen):**
 
@@ -74,7 +74,7 @@ Body:
 >
 > This is the promise the whole thing is built around:
 >
-> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session without paying a strategist and copywriter or stitching together a dozen AI tools by building a four-agent Claude Code revenue team.
+> I help solo coaches and consultants turn one business idea into a positioned offer, YouTube angles, a lead magnet, and a follow-up sequence in a single working session, without paying a strategist and copywriter or stitching together a dozen AI tools, by building a four-agent Claude Code revenue team.
 >
 > That sentence is locked by the second agent and the other agents have to quote it unchanged. You saw it in the hook, an angle, the lead magnet and this email. If you run the chain on your idea, check that it holds in yours too.
 >
