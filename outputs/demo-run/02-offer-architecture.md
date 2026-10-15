@@ -1,6 +1,8 @@
 ## Offer Architecture: First-time engineering manager coaching (demo-run)
 
-Evidence labels: [BRIEF] from business-brief.md, [MARKET] from 01-market-signal.md (itself thin, mostly [INFERENCE]), [DECISION] a choice I made here, [HYPOTHESIS] untested, [PLACEHOLDER: ...] something the coach must supply. Nothing below claims a result, credential, testimonial or income figure for the coach.
+> **DEMO EXAMPLE.** Every former placeholder in this file is filled with demo values: the coach "Jordan Example" is a demo coach for this video, not a real person; links use example.com; prices and policies are illustrative. Do not publish as a real offer.
+
+Evidence labels: [BRIEF] from business-brief.md, [MARKET] from 01-market-signal.md (itself thin, mostly [INFERENCE]), [DECISION] a choice I made here, [HYPOTHESIS] untested, [DEMO] a demo value filling a former placeholder. Nothing below claims a result, credential, testimonial or income figure for the coach.
 
 ### One-Sentence Offer
 
@@ -19,7 +21,7 @@ Chosen buyer for this video: the individual manager [DECISION]. Why:
 
 ### Core Offer
 
-Working name [PLACEHOLDER: coach to name it; suggested working label "Former-Peer Conversation Runbook"].
+Working name: Former-Peer Conversation Runbook [DEMO: suggested working name kept].
 
 What the paid product is: a structured prep-and-review of one real upcoming conversation, then a short follow-through plan. The viewer arrives with an actual situation (anonymized) and leaves with:
 1. A written one-page runbook for the conversation: the observed facts, the gap against a stated expectation, the opening lines, the likely pushbacks and replies, the support you will offer, and the follow-up date.
@@ -47,7 +49,7 @@ Prices: all [HYPOTHESIS], to be tested, not claimed as market rates. Set them in
 
 This is a coaching program, not an AI product, so I am not forcing an AI angle [DECISION per request]. The mechanism that makes the promise believable is a "debug the conversation" loop that engineers already understand, not a leadership philosophy.
 
-The loop, working name "Conversation Runbook" [PLACEHOLDER: coach to confirm or rename; the exact steps below must be what the coach genuinely teaches]:
+The loop, working name "Conversation Runbook" [DEMO: kept as the demo method; a real coach must confirm it is what they teach]:
 
 1. Reproduce: write down only observable facts about the work (dates, deliverables, review comments). No labels like "unmotivated". The observable-behavior-and-impact structure here is the widely taught Situation-Behavior-Impact feedback model (credited to the Center for Creative Leadership). The video should name it as a public framework, not as the coach's invention. [PUBLIC knowledge, confirm the attribution before filming]
 2. Define expected behavior: state the bar in one sentence that would be the same for any report, which separates the standard from the friendship.
@@ -66,10 +68,10 @@ Optional AI use, not part of the core claim: the viewer could use an LLM as a pr
 
 All prices are [HYPOTHESIS] for testing. No pricing data exists in the market brief. Test with 5 to 10 real conversations with target managers before publishing a price.
 
-1. Free content: the video, working title [PLACEHOLDER: test 3 or 4 hooks; example angles: "Your old teammate now reports to you and isn't delivering. Here is the exact first conversation." / "How to run the performance conversation you've been avoiding, as a runbook"]. Teaches steps 1 to 4 on one fictional (clearly labeled) example. Does not teach everything: the video ends before rehearsal and failure-case coverage for the viewer's own case.
+1. Free content: the video, working title chosen from the 3 strongest hooks to test [DEMO]: (1) "Your Old Teammate Now Reports to You. Do This First." (2) "How to Tell a Former Teammate They're Missing the Bar" (3) "The Performance Conversation You've Been Avoiding (Build the Runbook)". Teaches steps 1 to 4 on one fictional (clearly labeled) example. Does not teach everything: the video ends before rehearsal and failure-case coverage for the viewer's own case.
 2. Lead magnet (free, email): "Former-Peer Conversation Runbook" template. A fill-in one-page doc plus a 10-point readiness checklist, both usable the same day. The market brief recommends exactly this form (template or checklist for the scenario). [MARKET]
-3. Entry paid step: single "Review and Rehearse" session, 60 to 90 minutes, on the viewer's own anonymized case, with the written runbook returned afterward. [HYPOTHESIS: $150 to $400 range to test; chosen because it is low enough for self-pay and may be expensable, but I have no data.] A refund or "no fit, no charge" policy would reduce risk for an unproven coach. [PLACEHOLDER: coach decides the policy]
-4. Premium service: a multi-week 1:1 program, working name [PLACEHOLDER], that extends from this scenario into the other recurring moments (1:1 structure, delegation, deciding what to stop coding, upward communication). [HYPOTHESIS: $1,500 to $4,000 for roughly 6 weeks, to test only after the entry step shows people buy and finish.] Do not feature this price in the video.
+3. Entry paid step: single "Review and Rehearse" session, 60 minutes, on the viewer's own anonymized case, with the written runbook returned afterward. Price $97 [DEMO, untested]. Policy: full refund if not a fit [DEMO].
+4. Premium service: a multi-week 1:1 program (no working name suggested; left unnamed in the demo), that extends from this scenario into the other recurring moments (1:1 structure, delegation, deciding what to stop coding, upward communication). Price $297 [DEMO, untested; offer only after the entry step shows people buy and finish]. Do not feature this price in the video.
 5. Later path, not for this video: an employer package (team of new managers, cohort format) for L&D budgets. Needs its own video, its own proof and its own sales page. [MARKET]
 
 Next step after the video (single call to action): download the free runbook template. The email that follows delivers it, asks which of the "pushback" cases they're worried about, and offers the Review and Rehearse session. One CTA in the video, not three.
@@ -97,29 +99,29 @@ If the coach has none of these yet, the video should say so honestly and lean on
 ### Objection Map
 
 1. "I can get this from a book." The video should concede it: the books are good (the market brief lists Watkins, Stanier and Drasner among those commonly recommended) [MARKET, PUBLIC]. Books cover principles; none of them rehearse your specific conversation with your specific person. Show the gap on screen: a general principle versus the exact opening line for this case.
-2. "Who are you? Why should I trust you?" Weakest point; credibility scored 1 of 5 [MARKET]. Address it in the first minute: state the coach's real background [PLACEHOLDER], what the coach has and has not done, and invite the viewer to test the free runbook before spending anything. Never fake authority.
+2. "Who are you? Why should I trust you?" Weakest point; credibility scored 1 of 5 [MARKET]. Address it in the first minute: state the coach's background ("Demo coach for this video — not a real person." Experience: none — demo) [DEMO], what the coach has and has not done, and invite the viewer to test the free runbook before spending anything. Never fake authority.
 3. "A script will sound robotic to my engineers." The runbook scripts only the first 30 seconds and the three likely pushbacks, then you go off-script. Demonstrate it in the role-play. Engineers tend to distrust fluff, so show the structure, not slogans. [INFERENCE]
 4. "My situation is different (remote, a senior engineer, a friend, a cultural issue)." Say honestly which cases the runbook fits and which need HR, legal or a different approach. Narrow scope is part of the credibility.
 5. "Is this worth paying for when I can ask my own manager or a mentor?" Concede that a good mentor is great. The paid session is for people who don't have one available on this topic or want an independent rehearsal partner outside the company chain. Do not disparage managers.
 6. "I'm not sure I even want to be a manager." The market brief notes some hope to return to IC [MARKET, INFERENCE]. The video can say that avoiding the conversation is a data point either way, and that handling it is not a commitment to management forever. Do not push anyone to stay.
 7. "Privacy: I can't share details about my report." Offer an anonymization format (no names, no company, generic role) in the template and session intake. [DECISION]
-8. "It's too expensive for something I might do wrong anyway." Keep the entry price low, state what is and isn't promised (the conversation happens with a written plan; outcomes aren't guaranteed), and offer a refund or no-fit policy [PLACEHOLDER].
+8. "It's too expensive for something I might do wrong anyway." Keep the entry price low, state what is and isn't promised (the conversation happens with a written plan; outcomes aren't guaranteed), and offer the full refund if not a fit [DEMO].
 9. "My company should pay." Fair. Provide a one-paragraph reimbursement request they can send. Do not turn this into an employer sales pitch in this video. [DECISION]
 
 ### Blockers (the coach must supply before publication)
 
-These cannot be resolved by script writing. Each is a [PLACEHOLDER] in this document.
+Items 1 to 6 were placeholders; they are now filled with demo values [DEMO]. Items 7 to 9 are still open.
 
-1. [PLACEHOLDER: coach name, public identity and a truthful one-paragraph background relevant to engineering managers.]
-2. [PLACEHOLDER: the coach's actual experience with first-time engineering managers: how many, over what period, in what format. Supply real figures or state "none yet". Do not estimate.]
-3. [PLACEHOLDER: any real client outcomes or testimonials, with written consent and anonymization. If none exist, the video must not imply any.]
-4. [PLACEHOLDER: confirmation that the six-step Conversation Runbook is the coach's real method, and edits to match how they actually work.]
-5. [PLACEHOLDER: program name, entry price, premium price, refund or no-fit policy, and booking and payment system.]
-6. [PLACEHOLDER: a confidentiality and scope statement (not therapy, not legal advice, escalate to HR where required).]
+1. Coach: Jordan Example (jordan@example.com). Background: "Demo coach for this video — not a real person." [DEMO]
+2. Experience with first-time engineering managers: none — demo. [DEMO]
+3. Testimonials and client outcomes: none. Nothing in the video or emails may imply any. [DEMO]
+4. Method: the six-step Conversation Runbook is kept as the demo method. [DEMO]
+5. Entry: Review and Rehearse, 60 minutes, $97. Premium: $297 (unnamed). Policy: full refund if not a fit. Booking: https://example.com/book. Payment system: not specified. [DEMO]
+6. Scope statement: "Not therapy or legal advice; involve HR where required." [DEMO]
 7. Demand validation not yet done: real YouTube and Google search volume and competitor view counts for 3 or 4 scenario hooks, plus a 5 to 10 conversation price test. Searchability and clickability scores in the market brief are provisional until then. [MARKET]
 8. Attribution check: confirm the source and wording of the Situation-Behavior-Impact model before filming.
 9. Decision for the coach: does an employer package follow later? If yes, it needs its own video and proof, separate from this one.
 
 ### Summary for later agents
 
-Quote the One-Sentence Offer above word for word. The strongest honest angle is a single painful scenario plus a free usable template, with the paid step being the rehearsal and review of the viewer's own case. The weakest link is credibility; without the coach's real details the script should rely on the process demonstrated and public sources, and should not use authority language.
+Quote the One-Sentence Offer above word for word. The strongest honest angle is a single painful scenario plus a free usable template, with the paid step being the rehearsal and review of the viewer's own case. The weakest link is credibility; the coach is a demo with no real credentials, so the script relies on the process demonstrated and public sources, and should not use authority language.

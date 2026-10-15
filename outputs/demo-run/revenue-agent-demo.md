@@ -1,5 +1,7 @@
 # Revenue Agent Demo (demo-run): Leadership coaching for first-time engineering managers
 
+> **DEMO EXAMPLE.** All placeholders in this run are filled with demo values. "Jordan Example" (jordan@example.com) is a demo coach for this video, not a real person, with no experience and no testimonials. Links use example.com. Prices ($97 entry, $297 premium, 60 minutes, full refund if not a fit) are illustrative. Do not publish as a real offer.
+
 Coordinator: the main Claude Code session. The runbook was run on a one-line idea instead of the root `business-brief.md`: "a leadership coaching program for first-time engineering managers." The coordinator wrote a short brief for it (`business-brief.md` in this folder), with every assumption marked [ASSUMPTION]. Each agent read only this folder.
 
 | Phase | Agent | Output |
@@ -73,7 +75,7 @@ The chain held.
 | Time | Segment |
 |---|---|
 | 0:00 | Hook |
-| 0:22 | Honest credibility moment [PLACEHOLDER] |
+| 0:22 | Honest credibility moment: "Jordan Example, demo coach, not a real person; experience: none — demo" |
 | 1:15 | Scope and limits |
 | 2:00 | Hypothetical scenario |
 | 2:30–9:15 | Steps 1–4 filled in live |
@@ -102,8 +104,8 @@ The chain held.
   - Video
   - Free runbook
   - Emails
-  - Review and Rehearse session. Price hypothesis: $150–400.
-  - A roughly 6-week 1:1 program later. Price hypothesis: $1,500–4,000.
+  - Review and Rehearse session: 60 minutes, $97, full refund if not a fit [DEMO]. Booking: https://example.com/book
+  - A roughly 6-week 1:1 program later (unnamed): $297 [DEMO].
   - Employer package as a separate path.
 
 ## Monetization Path
@@ -112,20 +114,20 @@ Video → free runbook template → 5 emails → paid Review and Rehearse sessio
 
 ## Coordinator Flags (fix before filming or sending)
 
-1. **Credibility is the blocker.** The 0:22 segment, the email sender and the opt-in page all need the coach's real name and background. If the coach has no experience yet, they must say "none yet". Nothing was invented.
+1. **Credibility (filled with demo values).** The 0:22 segment, the email sender and the opt-in page now use "Jordan Example — demo coach, not a real person; experience: none — demo". A real coach must replace these before publishing.
 2. **The "within a week" promise isn't delivered by the free download.** The sentence promises a rehearsed, reviewed runbook. The template covers only the part you build alone. The scope line in `04` handles this; keep it on the opt-in page and in Email 1.
 3. **The checklist isn't shown in the video.** It's in the download as a quiet bonus, and the CTA doesn't promise it. Either show it briefly at 11:15 or accept it as an unannounced extra.
 4. **The booking link must work on day 0.** The video promises "a link in the email". If booking isn't ready, delay the video or cut that line from the CTA.
 5. **Check the SBI attribution** (Center for Creative Leadership) before naming it on screen.
-6. **Placeholders to fill:**
-   - coach name and background
-   - scenario text
-   - template name
-   - checklist wording
-   - prices
-   - refund policy
-   - booking link
-   - scope and confidentiality statement
-   - email consent wording and mailing address
+6. **Placeholders: all filled with demo values.** That covers the coach, background, experience, testimonials (none), method, working names, prices, refund policy, links, scenario, scope statement, email tool and opt-in/unsubscribe lines, and sign-offs. The 3 strongest hooks to test are:
+   - "Your Old Teammate Now Reports to You. Do This First."
+   - "How to Tell a Former Teammate They're Missing the Bar"
+   - "The Performance Conversation You've Been Avoiding (Build the Runbook)"
+
+   Still open:
+   - mailing address for the emails
+   - jurisdiction-specific email rules
+   - payment system
+   - a name for the premium program
 7. **Demand is unvalidated.** Test the titles and scenario hooks against real search terms and competitor videos, and run a price test of 5–10 conversations before publishing any price.
 8. **Fit note:** the market researcher pointed out that this is a career-risk play, not an "AI workflow to revenue" one. The system still produced a coherent revenue path. The agents' FuturIQ-specific instructions (AI, Claude Code) were set aside for this idea, as the coordinator instructed.
