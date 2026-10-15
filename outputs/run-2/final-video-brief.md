@@ -154,16 +154,16 @@ Target 12:30 to 13:30. Planned base: 12:35. Optional contrast adds 0:25. Hard ce
 ### Beats
 
 **0:20 Pain scene.** Shown, not explained. Notes app with the one-line idea. Four empty slots: no offer, no angle, no magnet, no follow-up. Say: "This is where the idea sits today." Say once: the money is not in the tool, it is in the system that connects these four.
-- *Optional, +0:25.* One prompt asked to do all four, shown once. Label it on screen: "one run, not a benchmark." Keep it only if that run really shows the pieces contradicting each other. If it reads fine, cut the beat and make no claim.
+- *Optional, +0:25.* One prompt asked to do all four, shown once. Label it on screen: "one run, not a benchmark." The rehearsal run (`demo-idea/single-prompt-contrast.md`) showed **no outright contradiction**, so do not say "contradicts". What it did show: the promise is worded three different ways across the offer, the lead magnet and Email 1, and two guesses are stated as facts ("most first hires go wrong", "most owners I've talked to"). Frame the beat as "the promise drifts and the guesses go unlabelled". Keep it only if the on-camera run shows the same.
 
 **1:15 Role file, brief, chain.** Open `.claude/agents/`. Four files. Open one, hold two seconds: it is plain text. Name the coordinator: the main session, not a fifth agent. Show the one brief. Build the four-step diagram from the folder names: market, offer, content, follow-up. One line on the Revenue Chain. Stop.
 
-**2:15 Agent 1.** Coordinator calls it by name. Output: the scorecard. Highlight one `[PUBLIC]` and one `[INFERENCE]` label. Read the inference line aloud. Read one risk aloud. One sentence: this agent cannot write files, so the main session saves its brief. Nothing more.
+**2:15 Agent 1.** Coordinator calls it by name. Output: the scorecard. Highlight one `[BRIEF]` and one `[INFERENCE]` label (the rehearsal researcher did no live search, so it had no `[PUBLIC]` lines; show a `[PUBLIC]` label only if the on-camera run produces one). Read the inference line aloud. Rehearsal candidate: "They likely treat this as a recruiting problem… It is more likely a handoff problem." Read one risk aloud. One sentence: this agent cannot write files, so the main session saves its brief. Nothing more.
 
 **3:15 Agent 2.** The longest build, because this is where the promise is made.
 - Positioning. The narrowing decision: why this buyer.
 - The sentence is locked. Freeze two seconds. Give it a colour outline that stays on every reappearance. Say: "It will not change."
-- Call back to the Agent 1 inference. Show it arriving here still labelled as a hypothesis. Use only what the real run produced.
+- Call back to the Agent 1 inference. Show it arriving here still labelled. In the rehearsal it did: the offer file's line 12 reads "Reframe: [INFERENCE] owners likely see this as a recruiting problem; it is more likely a handoff problem." Use only what the on-camera run produced.
 - If the why-now line in the output names no deadline, read it aloud.
 
 **5:15 Agent 3.** Best title, hook, retention map. Outline the locked sentence inside the hook. Meta beat, one line: this agent structured the video you are watching.
@@ -418,20 +418,29 @@ Measure from the first send, with no benchmarks assumed: video to download, down
 
 ## Pre-Film Checklist
 
-Open items only.
+Status as of 2026-10-15. **Done** items were completed and checked by the coordinator. **Open** items need the creator.
 
-- [ ] **Run the demo idea first.** "A coach who helps first-time agency owners hire their first account manager" is still a placeholder. Run the chain. If the output reads generic, change the idea, not the claims.
-- [ ] **Find a real inference to show.** Confirm the demo run contains an `[INFERENCE]` line and that it arrives downstream still marked. Do not stage one.
-- [ ] **Time the run.** Use the on-screen timer. If the elapsed time makes "single working session" untrue, fix the sentence before filming, not after.
-- [ ] **Run the single-prompt contrast once.** Keep the beat only if the contradiction is real in that run. Label it "one run, not a benchmark."
-- [ ] **Validate the title against search.** Check "Claude Code for coaches" and outcome phrases. Search volume and competition are unchecked.
-- [ ] **Watch the competing video.** This brief knows it by title only. Confirm the contrast table before using it.
-- [ ] **Template folder matches the screen.** Exactly the files shown. `SETUP-GUIDE.md` currently sits at the project root and must be inside the template.
-- [ ] **Clean the runbook and shipped files.** No internal notes, client names or private paths.
+### Done
+- [x] **Run the demo idea first.** Rehearsal run saved in `outputs/run-2/demo-idea/`. The output is specific, not generic. Its offer sentence is: "I help owners of 2-8 person marketing or creative agencies hire and onboard their first account manager without a costly bad hire or clients feeling handed off, by building a role scorecard and handoff plan before the hire." That sentence appears word for word in its hook, lead magnet promise and Email 1. Keep the idea.
+- [x] **Find a real inference to show.** `demo-idea/01-market-signal.md` line 22 labels "recruiting problem… more likely a handoff problem" as `[INFERENCE]`, and `02-offer-architecture.md` line 12 carries it forward still labelled. Not staged. The rehearsal had no `[PUBLIC]` lines (no live search), so the Agent 1 beat now highlights `[BRIEF]` and `[INFERENCE]`.
+- [x] **Run the single-prompt contrast once.** Saved as `demo-idea/single-prompt-contrast.md`. No outright contradiction, so the beat is reframed as "the promise drifts and the guesses go unlabelled" (see the 0:20 optional beat). Do not say "contradicts".
+- [x] **Template folder matches the screen.** `starter-folder/` holds exactly the seven files, with the four agents in `.claude/agents/` so Claude Code loads them. `SETUP-GUIDE.md` is inside it. Zip this folder as `revenue-chain-starter-folder.zip` for the download link.
+- [x] **Build the two-section brief.** `starter-folder/business-brief.md` has Section A (worked example, the demo idea) and a blank Section B (YOUR IDEA). The starter runbook reads Section B only and stops if it is empty. The starter setup guide's step 7 now says to fill in YOUR IDEA. **Tested:** a headless Claude Code run on a blank Section B stopped at Step 0, called no agents and wrote no files.
+- [x] **Clean the runbook and shipped files.** No private paths, user names or internal notes in the seven starter files.
+- [x] **Setup guide install command still live (2026-10-15).** `https://claude.ai/install.ps1` redirects to an official download and returns 200. Re-check on filming day.
+- [x] **Say "Windows" on the download page.** The download-page copy in this brief says "for Windows".
+- [x] **Opt-in page basics (copy).** The download-page copy says five emails follow and that you can unsubscribe, and uses the prerequisite line. The page itself still has to be built.
+
+### Measured, needs you to confirm
+- **Run time.** In the rehearsal, the four agents took 2 min 36 s from brief to final file (about 128 s of agent working time). That is machine time only. It does not include setup, reading or editing, so it neither proves nor breaks "single working session". Time the on-camera run and use only that figure.
+- **CTA length.** 73 words: about 29 s at 150 words a minute, about 26.5 s at 165. That is over the 25 s slot at a calm pace. Read it aloud; if it runs long, cut "No coding." as planned. The hook is 49 words, about 19.6 s at 150 wpm.
+- **Demo-idea title.** The rehearsal's example title, "Build This Before You Hire Your First Account Manager", echoes the competitor's "build this first" pattern. It is the example coach's title, not FuturIQ's, but avoid lingering on it on screen.
+
+### Open (needs the creator)
+- [ ] **Run the chain on camera** with the on-screen timer, on Section A's idea. Use only that run's outputs and elapsed time.
+- [ ] **Validate the title against search.** No volume data found. A paid community page already uses "Claude Code for coaches" ([thesolocreators.com](https://thesolocreators.com/learn/claude-code-for-coaches/)), so check the phrase is distinct enough.
+- [ ] **Watch the competing video** ([youtube.com/watch?v=KOzYXTIEV7g](https://www.youtube.com/watch?v=KOzYXTIEV7g), posted about 115 days ago). Search showed only its promo text, so confirm the contrast table against what it actually says.
 - [ ] **Clean the screen.** The Explorer path, user name and any account details must not be visible on camera.
-- [ ] **Re-confirm the setup guide the day you film.** The install command and the paid-plan requirement must still be true.
-- [ ] **Say "Windows" on the download page.** The setup guide does not cover Mac.
-- [ ] **Build the two-section brief.** `business-brief.md` ships with the final demo idea in Section A (worked example, input only) and a blank Section B (`YOUR IDEA`). The runbook must read Section B only and stop if it is empty. Reword step 7 of `SETUP-GUIDE.md` from "Replace the example" to "Fill in the section marked YOUR IDEA". Test: a fresh run on a blank Section B must not run on the demo idea.
-- [ ] **Waitlist and sender are real.** Email 1 and the CTA both promise a workshop waitlist by reply. Use a monitored sender address that accepts replies, and a way to log "workshop", "build" and "stuck" replies. If that cannot exist on launch day, cut the waitlist line from Email 1 and the last sentence of the CTA together.
-- [ ] **Time the CTA aloud.** About 72 words should land near 25 seconds. Trim "No coding." from the CTA only if it runs over.
-- [ ] **Opt-in page basics.** Say that five emails follow, include an unsubscribe link, and use the prerequisite line: needs a paid Claude plan and the Windows setup guide, no coding.
+- [ ] **Re-confirm the setup guide on filming day.** Install command and paid-plan requirement.
+- [ ] **Waitlist and sender are real.** A monitored reply address, and a way to log "workshop", "build" and "stuck" replies. If that cannot exist on launch day, cut the waitlist line from Email 1 and the last sentence of the CTA together.
+- [ ] **Build the download and opt-in page** from the copy above, and host the starter-folder ZIP behind the link.

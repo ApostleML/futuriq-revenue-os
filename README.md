@@ -11,9 +11,10 @@ A four-agent Claude Code team ("The Revenue Chain") that turns one business idea
   3. `content-angle-strategist`: title, hook, 14-minute video plan
   4. `conversion-system-builder`: lead magnet, CTA, emails
 - `runbooks/revenue-agent-runbook.md`: the order the agents run in, and the coordinator rules.
+- `starter-folder/`: the **Revenue Chain Starter Folder** that viewers download. It holds seven files: the four agents, a two-section `business-brief.md` (worked example and YOUR IDEA), the runbook and the setup guide. Zip this folder for the download link.
 - `outputs/`: the results.
   - `run-2/final-video-brief.md`: **the one to film from**
-  - `run-2/`: the current run. `01`–`04` are each agent's raw output, and `revenue-agent-demo.md` is the first-pass combined plan.
+  - `run-2/`: the current run. `01`–`04` are each agent's raw output, and `revenue-agent-demo.md` is the first-pass combined plan. `run-2/demo-idea/` is the rehearsal of the on-camera demo idea, plus the single-prompt contrast.
   - `demo-run/`: the runbook run on a different idea (first-time engineering managers), filled with demo values.
   - `final-video-brief.md`, `revenue-agent-demo.md`, `01`–`04` (top level): the first run, superseded by run-2.
 
