@@ -1,3 +1,5 @@
+> **Superseded.** This brief is from the first run. The plan to film from is now [`outputs/run-2/final-video-brief.md`](run-2/final-video-brief.md).
+
 # Final Video Brief — FuturIQ
 
 *Second pass. Graded by offer-architect and conversion-system-builder, with every section that scored below 4 rewritten. The source plan is `outputs/revenue-agent-demo.md`.*
